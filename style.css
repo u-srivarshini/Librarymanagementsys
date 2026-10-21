@@ -1,0 +1,34 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #eef2f7;
+}
+
+h1 {
+    color: steelblue;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background: steelblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: white;
+    margin: 10px auto;
+    padding: 12px;
+    max-width: 400px;
+}
